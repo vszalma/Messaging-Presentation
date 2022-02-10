@@ -138,7 +138,7 @@ note:
 <!-- .slide: data-auto-animate -->
 ## Event Hubs Offsets
 
-<blockquote style="font-size:24px;background-color:beige">
+<blockquote style="font-size:24px;background-color:beige;text-align:center">
 Note:
 There was a question regarding offsets that I'm not sure I understood correctly so my answer may have been confusing. I added this slide to provide additional details.
 </blockquote>
